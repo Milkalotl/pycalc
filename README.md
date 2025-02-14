@@ -21,4 +21,4 @@ Operators:
 - Add holding expressions
 
 ## notes:
- you can run the python file directly or compile the launch.c file, which lets you pipe and run more efficiently (useful!)
+ you can run the python file directly or compile the launch.c file, which (DOES NOT CURRENTLY) lets you pipe and run more efficiently (useful!)
